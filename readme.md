@@ -7,7 +7,7 @@ In order to fulfill the assignments of the Web Client Development Class
 
 
 
-<h1>Requirements</h1>
+<h2>Requirements</h2>
 
 
 
@@ -19,13 +19,21 @@ JavaScript (ES6) code snippets by charalampos karypidis : This is a VSCode Plugi
 
 Install Typescript using npm and yarn
 
-Code Runner by Jun Han : This a VSCode Plugin that allows you as developer to run snippets written in different programming languages.
+Code Runner by Jun Han : This is a VSCode Plugin that allows you as developer to run snippets written in different programming languages.
 
 
 
 
-<h1>Tasks and Expectations</h1>
+<h3>Tasks and Expectations</h3>
 
 
 Here Below are 5 Tasks and Expectations that i have written code using JavaScript dan TypeScript and their differences
+
+
+
+![medium-1ff861a7ee445cd81a865602c8a079a753e69252b06b793dfa73c78cf992de01-tugas1](https://github.com/user-attachments/assets/709e2ba6-2a2f-4928-bae4-9078cc077079)
+
+
+
+
 
